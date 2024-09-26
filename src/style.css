@@ -1,1 +1,7 @@
 @import "~bootstrap/dist/css/bootstrap.min.css";
+.pinta {
+  font-size: 100px;
+}
+.numerito {
+  font-size: 50px;
+}
