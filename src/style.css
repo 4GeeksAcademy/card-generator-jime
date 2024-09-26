@@ -1,7 +1,19 @@
 @import "~bootstrap/dist/css/bootstrap.min.css";
-.pinta {
+.pintas {
+}
+.pinta1 {
   font-size: 100px;
 }
+.pinta2 {
+  font-size: 100px;
+}
+.pinta3 {
+  font-size: 100px;
+}
+.pinta4 {
+  font-size: 100px;
+}
+
 .numerito {
-  font-size: 50px;
+  font-size: 200px;
 }
