@@ -1,19 +1,11 @@
 @import "~bootstrap/dist/css/bootstrap.min.css";
-.pintas {
-}
-.pinta1 {
-  font-size: 100px;
-}
-.pinta2 {
-  font-size: 100px;
-}
-.pinta3 {
-  font-size: 100px;
-}
-.pinta4 {
-  font-size: 100px;
-}
 
-.numerito {
-  font-size: 200px;
+.pinta {
+  font-size: 100px;
+}
+.value {
+  font-size: 80px;
+}
+.pinta-bottom {
+  transform: rotate(180deg);
 }
